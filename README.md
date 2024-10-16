@@ -2,6 +2,8 @@
 
 TK
 
+Gpio pins via USB for some systems (Mac, etc) that do not have gpio support. If you only need a few gpio pins you may want to check out the Adafruit MCP2221 Breakout board Product ID: 4471.
+
 Licensed under CERN OHL v.1.2 (Open Hardware Licence)
 
 See CERN OHL v.1.2 for applicable conditions
