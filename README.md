@@ -35,6 +35,5 @@ UsbGpio board features:
 2. Two GPIO pins driving 2N7002 Mosfets for output.
 3. I2C lines to a JST_SH Connector
 4. UART (Serial) lines to a JST_SH Connector
-5. Terminal to supply external 5 volts
 
 All data lines use 4-pin Qwiic/JST_SH connectores.
