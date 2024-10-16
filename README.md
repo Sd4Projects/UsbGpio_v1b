@@ -43,4 +43,6 @@ UsbGpio board features:
 
 All data lines use 4-pin Qwiic/JST_SH connectores.
 
+Bare board can be ordered from: https://oshpark.com/shared_projects/wGhxM2sL
+
 Python 3 test program for a Mac: macTestMcp2221.py There are python libraries for other types of systems.
