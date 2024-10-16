@@ -1,7 +1,5 @@
 # UsbGpio
 
-TK
-
 Gpio pins via USB for some systems (Mac, MiniPC, etc) that do not have gpio support.
 If you only need a few gpio pins you may want to check out the Adafruit MCP2221 Breakout board Product ID: 4471.
 
@@ -44,3 +42,5 @@ UsbGpio board features:
 6. USB C connector, USB 2.0
 
 All data lines use 4-pin Qwiic/JST_SH connectores.
+
+Python 3 test program for a Mac: macTestMcp2221.py There are python libraries for other types of systems.
