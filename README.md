@@ -45,4 +45,10 @@ All data lines use 4-pin Qwiic/JST_SH connectores.
 
 Bare board can be ordered from: https://oshpark.com/shared_projects/wGhxM2sL
 
-Python 3 test program for a Mac: macTestMcp2221.py There are python libraries for other types of systems.
+Python 3 test program run on a Mac from Terminal window: macTestMcp2221.py (There are python libraries for other types of systems.)
+
+Parts used for testing:
+1. 10K Precision Epoxy Thermistor - 3950 NTC From adafruit Product ID: 372
+2. Monochrome 1.3" 128x64 OLED graphic display - STEMMA QT / Qwiic From adafruit Product ID: 938
+3. Mini Panel Mount SPDT Toggle Switch From adafruit Product ID: 3221
+4. STEMMA QT / Qwiic JST SH 4-Pin Cable - 50mm Long From adafruit Product ID: 4399
