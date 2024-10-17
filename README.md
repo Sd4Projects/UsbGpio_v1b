@@ -3,7 +3,7 @@
 Add gpio pins for (Mac, MiniPC, etc) via USB that do not have gpio pins to use.
 If you only need a few gpio pins you may want to check out the Adafruit MCP2221 Breakout board Product ID: 4471.
 
-Licensed under CERN OHL v.1.2 (Open Hardware Licence)
+UsbGpio board licensed under CERN OHL v.1.2 (Open Hardware Licence)
 
 See CERN OHL v.1.2 for applicable conditions
 
