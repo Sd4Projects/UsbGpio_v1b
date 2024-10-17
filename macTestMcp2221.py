@@ -1,11 +1,14 @@
 #!/Library/Frameworks/Python.framework/Versions/3.12/bin/python3
 
+# This program released under OHL Version 1.2
+
 # pip3 install adafruit-blinka
 # pip3 install adafruit-circuitpython-mcp230xx
 # pip3 install adafruit-circuitpython-ads1x15
 # pip3 install adafruit-circuitpython-ssd1306
 # Install missing font, font5x8.bin from github
-# font5x8.bin must same be in the same directory as program
+# https://github.com/adafruit/Adafruit_CircuitPython_framebuf/blob/master/examples/font5x8.bin
+# font5x8.bin must same be in the same directory as program to use adafruit_ssd1306
 
 import os
 os.environ['BLINKA_MCP2221'] = '1'
