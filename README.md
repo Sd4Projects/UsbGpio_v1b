@@ -1,4 +1,4 @@
-# UsbGpio
+# UsbGpio_v1b
 
 Add gpio pins for (Mac, MiniPC, etc) via USB that do not have gpio pins to use.
 If you only need a few gpio pins you may want to check out the Adafruit MCP2221 Breakout board Product ID: 4471.
